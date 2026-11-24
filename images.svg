@@ -4,7 +4,7 @@
   <text x="28" y="36" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="22">User Profile</text>
   <rect x="0" y="54" width="1200" height="626" fill="#0d1117"/>
   <circle cx="80" cy="185" r="34" fill="#30363d"/>
-  <text x="80" y="195" text-anchor="middle" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="34">A</text>
+  <text x="80" y="193" text-anchor="middle" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="19">User</text>
   <text x="132" y="173" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="30">Your Information</text>
 
   <g fill="#adbac7" font-family="Roboto, sans-serif">
