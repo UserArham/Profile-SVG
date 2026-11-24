@@ -5,5 +5,4 @@
 
  _Originally posted by [@UserArham](https://github.com/UserArham) in [#3](https://github.com/XENOTECH-X/GX-Launcher/issues/3#issuecomment-7117047080)_
 
- i think say wallahi bro so NO
-
+ 
