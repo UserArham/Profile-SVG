@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
   <rect width="1200" height="680" fill="#080c12"/>
   <rect x="0" y="0" width="1200" height="54" fill="#20242a"/>
-  <text x="28" y="36" fill="#f0f3f6" font-family="Arial, sans-serif" font-size="22">User Profile</text>
+  <text x="28" y="36" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="22">User Profile</text>
   <rect x="0" y="54" width="1200" height="626" fill="#0d1117"/>
   <circle cx="80" cy="185" r="34" fill="#30363d"/>
-  <text x="80" y="195" text-anchor="middle" fill="#f0f3f6" font-family="Arial, sans-serif" font-size="34">A</text>
+  <text x="80" y="195" text-anchor="middle" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="34">A</text>
   <text x="132" y="173" fill="#f0f3f6" font-family="Roboto, sans-serif" font-size="30">Your Information</text>
 
-  <g fill="#adbac7" font-family="Arial, sans-serif">
+  <g fill="#adbac7" font-family="Roboto, sans-serif">
     <text x="132" y="212" font-size="36">ANY followers · ANY following</text>
 
     <path d="M132 269 h18 v-10 h6 v10 h18 v18 h-42 z" fill="#adbac7"/>
@@ -25,6 +25,6 @@
   </g>
 
   <rect x="900" y="54" width="300" height="626" fill="#010409"/>
-  <text x="930" y="110" fill="#58a6ff" font-family="Arial, sans-serif" font-size="44">Snap Info</text>
-  <text x="930" y="190" fill="#adbac7" font-family="Arial, sans-serif" font-size="23">Snapped at ANY:TIME</text>
+  <text x="930" y="110" fill="#58a6ff" font-family="Roboto, sans-serif" font-size="44">Snap Info</text>
+  <text x="930" y="190" fill="#adbac7" font-family="Roboto, sans-serif" font-size="23">Snapped at ANY:TIME</text>
 </svg>
