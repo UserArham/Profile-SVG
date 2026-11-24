@@ -1,0 +1,9 @@
+<img alt="download" width="480" height="225" src="https://private-user-images.githubusercontent.com/241672494/716596027-6e76eb21-3979-48a5-a995-6fec70d31b1f.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU0NzY5ODUsIm5iZiI6MTc5NTQ3NjY4NSwicGF0aCI6Ii8yNDE2NzI0OTQvNzE2NTk2MDI3LTZlNzZlYjIxLTM5NzktNDhhNS1hOTk1LTZmZWM3MGQzMWIxZi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTEyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMjNUMjMzMTI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjdiOTgxZWM3MGQ1MjU3Mjc1OGIwZGU0YjQwZGNiYWZlZjM2OTYwYjI0NDk5NDI4YzdkNTBiZmVlYTM4NWI5MyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.45NFfh6bKX3EHfOvoZa0GbJdo7azT-GjCzL6oIzy_YI">
+
+
+> should I keep it as my wallpaper guys
+
+ _Originally posted by [@UserArham](https://github.com/UserArham) in [#3](https://github.com/XENOTECH-X/GX-Launcher/issues/3#issuecomment-7117047080)_
+
+ i think say wallahi bro so NO
+
